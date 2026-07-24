@@ -1,1 +1,13 @@
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/App.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/Main.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/problema/Archer.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/problema/Mage.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/problema/Warrior.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/solucion/Archer.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/solucion/AttackStrategy.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/solucion/BowAttack.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/solucion/GameCharacter.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/solucion/Mage.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/solucion/MagicAttack.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/solucion/MeleeAttack.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/solucion/Warrior.java
