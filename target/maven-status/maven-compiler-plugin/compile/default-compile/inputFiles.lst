@@ -1,4 +1,12 @@
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/App.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/problema/Enemy.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/problema/IDGenerator.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/problema/Main.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/problema/Player.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/solucion/Enemy.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/solucion/IDGenerator.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/solucion/Main.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/solucion/Player.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/Main.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/problema/Archer.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/strategy/problema/Mage.java
