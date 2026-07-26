@@ -1,4 +1,13 @@
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/App.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/problema/Enemy.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/problema/Game.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/solucion/Enemy.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/solucion/EnemyFactory.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/solucion/Game.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/solucion/Goblin.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/solucion/GoblinFactory.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/solucion/Troll.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/solucion/TrollFactory.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/problema/Enemy.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/problema/IDGenerator.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/singleton/problema/Main.java
