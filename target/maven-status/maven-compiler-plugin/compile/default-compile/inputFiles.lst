@@ -7,6 +7,16 @@
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/command/solucion/Game.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/command/solucion/InputHandler.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/command/solucion/Player.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/problema/FirePoisonSword.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/problema/FireSword.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/problema/PoisonSword.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/problema/Sword.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/solucion/FireDecorator.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/solucion/Game.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/solucion/PoisonDecorator.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/solucion/Sword.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/solucion/Weapon.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/decorator/solucion/WeaponDecorator.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/problema/Enemy.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/problema/Game.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/factoryMethod/solucion/Enemy.java
