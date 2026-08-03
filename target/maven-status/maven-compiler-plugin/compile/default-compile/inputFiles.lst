@@ -1,4 +1,10 @@
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/App.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/builder/problema/GameCharacter.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/builder/problema/Main.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/builder/solucion/Character.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/builder/solucion/Game.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/builder/solucion/GameCharacter.java
+/home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/builder/solucion/Outer.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/command/problema/GameProblemDemo.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/command/problema/Player.java
 /home/ssandorov/Programming/devtalles/java/java-advanced/Java-design-patterns/src/main/java/com/mycompany/app/command/solucion/AttackCommand.java
